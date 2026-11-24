@@ -12,7 +12,7 @@ Work without a working video link is incomplete.
 
 The video is half the grade. Run both programs, then explain why each helper takes `const &` and what your struct's fields hold.
 
-##USES MINI BANK
+## USES MINI BANK
 **Your demo:** https://drive.google.com/file/d/1DA1ltrVAHF9py1zKSuaUhIjqnoOnLQqf/view?usp=sharing
 
 ## What to build
